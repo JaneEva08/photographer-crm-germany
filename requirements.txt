@@ -1,0 +1,8 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+SQLAlchemy==2.0.40
+psycopg[binary]==3.2.6
+pydantic==2.11.3
+requests==2.32.3
+google-api-python-client==2.166.0
+google-auth-oauthlib==1.2.2

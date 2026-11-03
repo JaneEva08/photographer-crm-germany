@@ -1,0 +1,15 @@
+.env
+.env.*
+.git/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite*
+config/
+tests/
+ui/
+google_integration/
+README.md
+HOMEWORK.md

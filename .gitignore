@@ -1,0 +1,10 @@
+.env
+config/oauth_client.json
+config/token.json
+*.db
+*.sqlite*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
